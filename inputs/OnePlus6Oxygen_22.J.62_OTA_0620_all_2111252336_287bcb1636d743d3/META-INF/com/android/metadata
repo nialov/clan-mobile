@@ -1,0 +1,17 @@
+india-image-size=321073152
+ota-id=OnePlus6Oxygen_22.J.62_GLO_0620_2111252336
+ota-property-files=payload_metadata.bin:1589:153531,payload.bin:1589:2107627167,payload_properties.txt:2107628814:218,care_map.pb:903:639,metadata:69:787            
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:1589:2107627167,payload_properties.txt:2107628814:218,care_map.pb:903:639,metadata:69:787              
+ota-type=AB
+ota_version=OnePlus6Oxygen_22.J.62_GLO_0620_2111252336
+patch_type=1
+post-build=OnePlus/OnePlus6/OnePlus6:11/RKQ1.201217.002/2111252325:user/release-keys
+post-build-incremental=2111252325
+post-sdk-level=30
+post-security-patch-level=2021-11-01
+post-timestamp=1637854374
+pre-device=OnePlus6
+reserve-image-size=968146944
+version_name=OnePlus6Oxygen_22_2111252336
+wipe=0
